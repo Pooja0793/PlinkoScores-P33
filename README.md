@@ -1,2 +1,2 @@
-# p5.play-boilerplate
+# Plinko with scores
 Boiler plate for p5.play
